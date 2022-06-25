@@ -7,7 +7,7 @@
 }
 
 .inner-card {
-    background-color: blue;
+    background-color:blue;
     color: white;
     height: 100%;
 
@@ -16,7 +16,7 @@
 }
 
 .header {
-    border: 2mm solid deeppink;
+    
 
 
     display: flex;
@@ -35,14 +35,17 @@
     gap: 5px;
 }
 
-.header-hp > img {
-    height: 5px;
-    width: 5px;
+.water-symbol > img {
+    height: 20px;
+    width: 20px;
+    background-color: blue;
+    
 }
 
 
 .image {
     border: 3px solid yellow;
+    box-shadow: 3px 3px 10px;
     height: 35mm;
     margin-left: 3mm;
     margin-right: 3mm;
