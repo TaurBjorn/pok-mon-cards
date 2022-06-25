@@ -1,0 +1,44 @@
+.card {
+    background-color: yellow;
+    width: 60mm;
+    height: 85mm;
+    padding: 3mm;
+    border-radius: 10px;
+}
+
+.inner-card {
+    background-color: blue;
+    color: white;
+    height: 100%;
+
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    border: 2mm solid deeppink;
+
+    display: flex;
+    justify-content: space-between;
+
+    
+}
+
+.header-hp {
+    display: flex;
+    gap: 5px;
+}
+
+
+.image {
+    border: 1px solid yellow;
+    height: 35mm;
+    margin-left: 3mm;
+    margin-right: 3mm;
+}
+
+.image > img {
+    height: 100%;
+    width: 100%;
+    
+}
