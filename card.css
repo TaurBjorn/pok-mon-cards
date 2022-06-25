@@ -35,6 +35,11 @@
     gap: 5px;
 }
 
+.header-hp > img {
+    height: 5px;
+    width: 5px;
+}
+
 
 .image {
     border: 3px solid yellow;
