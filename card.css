@@ -18,10 +18,16 @@
 .header {
     border: 2mm solid deeppink;
 
+
     display: flex;
     justify-content: space-between;
 
     
+}
+
+.header-name {
+    font-weight: bold;
+    color: black;
 }
 
 .header-hp {
@@ -31,7 +37,7 @@
 
 
 .image {
-    border: 1px solid yellow;
+    border: 3px solid yellow;
     height: 35mm;
     margin-left: 3mm;
     margin-right: 3mm;
