@@ -16,24 +16,30 @@
 }
 
 .header {
-    
-
-
     display: flex;
     justify-content: space-between;
 
+    margin-top: 5px;
     
 }
 
 .header-name {
-    font-weight: bold;
+    font-weight: 800;
+    font-family: sans-serif;
     color: black;
+    margin-left: 10px;
+
 }
 
 .header-hp {
     display: flex;
-    gap: 5px;
+    gap: 1px;
+    margin-right: 10px;
+    font-family: sans-serif;
+    color: orange;
+    align-items: baseline;
 }
+
 
 .water-symbol > img {
     height: 20px;
@@ -44,7 +50,7 @@
 
 
 .image {
-    border: 3px solid yellow;
+    border: 3px solid gold;
     box-shadow: 3px 3px 10px;
     height: 35mm;
     margin-left: 3mm;
