@@ -7,7 +7,7 @@
 }
 
 .inner-card {
-    background-color:blue;
+    background-image: url(./images/Water-typer-background.png);
     color: white;
     height: 100%;
 
@@ -36,7 +36,7 @@
     gap: 1px;
     margin-right: 10px;
     font-family: sans-serif;
-    color: orange;
+    color: red;
     align-items: baseline;
 }
 
@@ -44,7 +44,7 @@
 .water-symbol > img {
     height: 20px;
     width: 20px;
-    background-color: blue;
+    background-color: none;
     
 }
 
