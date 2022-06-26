@@ -63,6 +63,11 @@
     
 }
 
+.pokemon-info {
+    display: flex;
+    flex-direction: column;
+}
+
 .pokemon-specs {
     font-size: 8px;
     color: black;
@@ -75,4 +80,26 @@
     display: flex;
     justify-content: center;
     margin-top: 2px;
+}
+
+.text-info-one > p {
+    color: black;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 6px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+/* Using a Pseudo-element */
+.text-info-one > p::before {
+    content: "Pokémon Power: Rain Dance";
+    color: red;
+    font-weight: bolder;
+    font-size: 8px
+}
+
+.text-info-one > p > img {
+    width: 6px;
+    height: 6px;
 }
