@@ -62,3 +62,17 @@
     width: 100%;
     
 }
+
+.pokemon-specs {
+    font-size: 8px;
+    color: black;
+    font-weight: bold;
+    font-style: italic;
+    background-image: linear-gradient(to right, orangered , yellow, orangered);
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 2px;
+    display: flex;
+    justify-content: center;
+    margin-top: 2px;
+}
