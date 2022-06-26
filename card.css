@@ -89,6 +89,8 @@
     font-size: 6px;
     margin-left: 20px;
     margin-right: 20px;
+    margin-bottom: 3px;
+    margin-top: 0;
 }
 
 /* Using a Pseudo-element */
@@ -102,4 +104,14 @@
 .text-info-one > p > img {
     width: 6px;
     height: 6px;
+}
+
+/* line one */
+.text-info-one .hr-one {
+    border: 1px solid black;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 0;
+    border-radius: 1px;
+    background-color: black;
 }
