@@ -112,6 +112,88 @@
     margin-left: 8px;
     margin-right: 8px;
     margin-top: 0;
+    margin-bottom: 4px;
+    border-radius: 1px;
+    background-color: black;
+}
+
+/* second text information section */
+.text-info-two {
+    display: flex;
+    flex-direction: row;
+    height: 35px;
+    
+    
+}
+
+.text-information > p  {
+    color: black;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 6px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 3px;
+    margin-top: 0;
+    
+}
+
+.text-information > p > img {
+    width: 6px;
+    height: 6px;
+}
+
+.text-information > p::before {
+    content: "Hydro Pump ";
+    font-weight: bolder;
+    font-size: 8px
+}
+
+.forty-plus {
+    font-family: sans-serif;
+    font-weight: 300;
+    color: black;
+
+}
+
+.first-symbol-section {
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+    margin-left: 4px;
+}
+
+.second-symbol-section {
+    display: flex;
+    
+    
+}
+
+
+.symbol-one {
+    width: 12px;
+    height: 12px;
+}
+
+.symbol-two {
+    width: 12px;
+    height: 12px;
+    margin-left: 10px;
+
+}
+
+.symbol-three {
+    width: 12px;
+    height: 12px;
+    
+    
+}
+
+.hr-two {
+    border: 1px solid black;
+    margin-left: 8px;
+    margin-right: 8px;
+    margin-top: 0;
     border-radius: 1px;
     background-color: black;
 }
