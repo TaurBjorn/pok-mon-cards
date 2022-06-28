@@ -217,16 +217,16 @@
 }
 
 .electric > img {
-    margin-left: 22px;
-    width: 10px;
-    height: 10px;
+    margin-left: 20px;
+    width: 15px;
+    height: 15px;
     
 }
 
 .normal > img {
-    margin-right: 5px;
-    width: 10px;
-    height: 10px;
+    margin-right: 2px;
+    width: 15px;
+    height: 15px;
 }
 
 
