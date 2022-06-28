@@ -210,3 +210,22 @@
     margin-right: 15px;
     margin-left: 15px;
 }
+
+.symbols-text-three {
+    display: flex;
+    justify-content: space-between;
+}
+
+.electric > img {
+    margin-left: 22px;
+    width: 10px;
+    height: 10px;
+    background-color: none;
+}
+
+.normal > img {
+    margin-right: 5px;
+    width: 10px;
+    height: 10px;
+}
+
