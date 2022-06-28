@@ -243,3 +243,15 @@
     margin-left: 20px;
     margin-right: 20px;
 }
+
+.footer-text {
+    display: flex;
+    justify-content: space-between;
+    color: black;
+    margin-top: 5px;
+    margin-right: 2px;
+    margin-left: 2px;
+    font-size: 5px;
+    font-weight: bold;
+
+}
