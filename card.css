@@ -220,7 +220,7 @@
     margin-left: 22px;
     width: 10px;
     height: 10px;
-    background-color: none;
+    
 }
 
 .normal > img {
@@ -229,3 +229,17 @@
     height: 10px;
 }
 
+
+.box-element {
+    font-size: 6px;
+    font-weight: bold;
+    font-family: sans-serif;
+    font-style: italic;
+    border: 2px solid gold;
+    color: black;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 6px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
