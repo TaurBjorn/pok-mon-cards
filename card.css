@@ -20,7 +20,6 @@
     justify-content: space-between;
 
     margin-top: 5px;
-    
 }
 
 .header-name {
@@ -28,7 +27,6 @@
     font-family: sans-serif;
     color: black;
     margin-left: 10px;
-
 }
 
 .header-hp {
@@ -122,8 +120,6 @@
     display: flex;
     flex-direction: row;
     height: 35px;
-    
-    
 }
 
 .text-information > p  {
@@ -135,7 +131,6 @@
     margin-right: 10px;
     margin-bottom: 3px;
     margin-top: 0;
-    
 }
 
 .text-information > p > img {
@@ -154,7 +149,6 @@
     font-family: sans-serif;
     font-weight: 300;
     color: black;
-
 }
 
 .first-symbol-section {
@@ -166,8 +160,6 @@
 
 .second-symbol-section {
     display: flex;
-    
-    
 }
 
 
@@ -180,14 +172,11 @@
     width: 12px;
     height: 12px;
     margin-left: 10px;
-
 }
 
 .symbol-three {
     width: 12px;
     height: 12px;
-    
-    
 }
 
 /* line two */
