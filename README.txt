@@ -9,3 +9,5 @@ Always open for feedback :)
 
 Happy coding :)
 
+I have no affinity with Nintendo, The Pokemon Company or Game Freak. This project is just made for educational purposes in what you can build with CSS.
+
